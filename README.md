@@ -5,13 +5,17 @@
 | Link | GitHub |
 | ---- | ------ |
 | [grub-theme-glass-remix](https://samwhelp.github.io/grub-theme-glass-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-glass-remix) |
+| [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
+| [grub-theme-remix-select](https://samwhelp.github.io/grub-theme-remix-select/) | [GitHub](https://github.com/samwhelp/grub-theme-remix-select) |
 
 
 
 
 ## Subject
 
+* [Theme Source](#theme-source)
 * [Background Source](#background-source)
+* [Icon Source](#icon-source)
 * [Theme File](#theme-file)
 * [Install](#install)
 * [Apply](#apply)
@@ -21,10 +25,28 @@
 
 
 
+## Theme Source
+
+| Theme Source |
+| ------------ |
+| GitHub / samwhelp / [grub-theme-glass](https://github.com/samwhelp/grub-theme-glass) |
+
+
+
+
 ## Background Source
 
 * [iron man](https://www.reddit.com/r/wallpaper/comments/olengo/3840x2160_iron_man/)
 * [https://i.redd.it/1ai3l6g54kb71.jpg](https://i.redd.it/1ai3l6g54kb71.jpg)
+
+
+
+
+## Icon Source
+
+| Theme Source |
+| ------------ |
+| GitHub / vinceliuice / [grub2-themes](https://github.com/vinceliuice/grub2-themes/tree/master/assets/assets-color/icons-4k) |
 
 
 
